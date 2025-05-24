@@ -1,7 +1,7 @@
 # Project: roboshop-shell-automation-01
 
 ## Overview
-`roboshop-shell-automation-01` is a comprehensive and fully automated solution for deploying the RoboShop e-commerce application using Shell scripting. This project streamlines the setup process by automating the installation, configuration, and orchestration of all required services and dependencies across multiple environments, with a focus on Red Hat Enterprise Linux.
+`roboshop-shell-automation-01` is a comprehensive and fully automated solution for deploying the RoboShop e-commerce application using Shell scripting. This project streamlines the setup process by automating the installation, configuration,and Setup of all required services and dependencies across multiple environments, with a focus on Red Hat Enterprise Linux.
 
 ## Evolution of the Project
 
