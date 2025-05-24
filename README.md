@@ -1,7 +1,7 @@
-# Project: roboshop-linux-manual-01
+# Project: roboshop-linux-manual
 
 ## Overview
-`roboshop-linux-manual-01` is a comprehensive and fully automated solution for deploying the RoboShop e-commerce application using Shell scripting. This project streamlines the setup process by automating the installation, configuration,and Setup of all required services and dependencies across multiple environments, with a focus on Red Hat Enterprise Linux.
+`roboshop-linux-manual` is a comprehensive and fully automated solution for deploying the RoboShop e-commerce application using Shell scripting. This project streamlines the setup process by automating the installation, configuration,and Setup of all required services and dependencies across multiple environments, with a focus on Red Hat Enterprise Linux.
 
 ## Evolution of the Project
 
